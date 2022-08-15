@@ -7,7 +7,6 @@ Content review :
 - various : python scripts on differents math-related topics.
 - random-matrices : work on random matrix theory.
 
-An update date is available on the readme.md of each repository, which can also contain additional bibliography and information.
 For more information or to report bugs, you can contact me at ferdinand.equilbey@etu.univ-poitiers.fr.
 
 
