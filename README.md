@@ -1,5 +1,5 @@
-PhD student @ XLIM, Université de Poitiers
-Keywords: active learning, classification, conformal prediction, uncertainty quantification, computer vision
+PhD student @ XLIM, Université de Poitiers (keywords: active learning, classification, conformal prediction, uncertainty quantification, computer vision)
+
 
 Content review:
 
