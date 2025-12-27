@@ -3,6 +3,6 @@ PhD student @ XLIM, Université de Poitiers (keywords: active learning, classifi
 
 Content review:
 
-- distributions-estimation-tests : some work on statistics & probability, parametric estimation, and numerical simulation.
+- distributions-estimation-tests : some work on statistics & probability, parametric estimation, and numerical simulation, conformal inference.
 - various : python scripts on differents math-related topics.
-- random-matrices : work on random matrix theory.
+- random-matrices : works on random matrix theory.
